@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/static/css/main.e452af8b.css",
+    "main.js": "/static/js/main.76cb414a.js",
+    "static/js/787.9b00eb39.chunk.js": "/static/js/787.9b00eb39.chunk.js",
+    "static/media/service-fingers111.jpg": "/static/media/service-fingers111.ce67b1c9b5df1827b7b3.jpg",
+    "static/media/BusinessServices31.png": "/static/media/BusinessServices31.9d795bfdd86d5d49d6c9.png",
+    "static/media/debt-collection.jpg": "/static/media/debt-collection.b16f1e8dfb399f5e882e.jpg",
+    "index.html": "/index.html",
+    "main.e452af8b.css.map": "/static/css/main.e452af8b.css.map",
+    "main.76cb414a.js.map": "/static/js/main.76cb414a.js.map",
+    "787.9b00eb39.chunk.js.map": "/static/js/787.9b00eb39.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e452af8b.css",
+    "static/js/main.76cb414a.js"
+  ]
+}
